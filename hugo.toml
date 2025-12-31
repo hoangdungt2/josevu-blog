@@ -1,3 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Jose Vu Blog'
+theme = "PaperMod"
+enableInlineShortcodes = true
+timeZone = "Australia/Melbourne"
+[params]
+  math = true
