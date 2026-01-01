@@ -96,3 +96,6 @@ If you're a developer or technical writer stuck in WordPress limbo, give Hugo a 
 **Build Time:** < 100ms  
 **Monthly Cost:** $0  
 **Peace of Mind:** Priceless
+
+HAPPY NEW YEAR
+![Happy New Year 2026](/images/happy_new_year.jpg)
