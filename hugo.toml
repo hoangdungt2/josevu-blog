@@ -1,8 +1,33 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://josevu.com/'
 languageCode = 'en-us'
 title = 'Jose Vu Blog'
-theme = "PaperMod"
-enableInlineShortcodes = true
-timeZone = "Australia/Melbourne"
-[params]
-  math = true
+theme = "Mainroad"
+
+[Params]
+  description = "Jose Vu's Blog"
+  copyright = "Jose Vu"
+  readmore = true
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories"]
+  
+  # Author info (moved under Params)
+  [Params.Author]
+    name = "Jose Vu"
+    bio = "Welcome to my blog"
+  
+  # Enable math rendering
+  mathjax = true
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["search", "recent", "categories", "taglist"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"

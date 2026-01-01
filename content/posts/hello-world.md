@@ -1,11 +1,12 @@
 ---
 title: "Hello World"
 date: 2026-01-01
+mathjax: true
 ---
 
 This is a test post.
 
-Inline math: \( a^2 + b^2 = c^2 \)
+Inline math: $a^2 + b^2 = c^2$
 
 Block math:
 
