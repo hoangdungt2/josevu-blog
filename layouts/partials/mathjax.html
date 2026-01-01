@@ -1,4 +1,4 @@
-{{ if .Params.mathjax }}
+{{ if or .Params.mathjax .Site.Params.mathjax (where .Pages "Params.mathjax" true) }}
 <script>
 window.MathJax = {
   tex: {
@@ -9,6 +9,14 @@ window.MathJax = {
   },
   options: {
     skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  },
+  startup: {
+    pageReady: () => {
+      return MathJax.startup.defaultPageReady().then(() => {
+        // Force typeset after page is ready
+        MathJax.typesetPromise();
+      });
+    }
   }
 };
 </script>
