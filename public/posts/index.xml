@@ -6,14 +6,21 @@
     <description>Recent content in Posts on Jose Vu Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
+      <title>Crazy things at the start of 2026</title>
+      <link>http://localhost:1313/posts/new_year_2026_crazy/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/new_year_2026_crazy/</guid>
+      <description>&lt;p&gt;2026 opened like a magician pulling surprises out of a hat — except the hat was international politics and my keyboard.&lt;/p&gt;&#xA;&lt;p&gt;First trick: news alerts lit up faster than my phone could vibrate. The headlines declared that the US had captured Maduro in Venezuela — a plot twist that made every conspiracy board and group chat combust into a thousand takes. Coffee shops suddenly felt like UN assemblies; everyone had an opinion, a tin-foil theory, and a very specific timeline. If 2026 was auditioning for a spy thriller, it nailed the opening scene.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ditching WordPress for Hugo: A Fresh Start for 2026</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;This is a test post.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Today marks the first day of 2026, and I&amp;rsquo;ve made a bold decision: I&amp;rsquo;m ditching WordPress + MySQL and moving to Hugo for my blog. Here&amp;rsquo;s why.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
