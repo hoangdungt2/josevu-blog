@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/new_year_2026_crazy/</loc>
+    <loc>https://josevu.com/posts/its_hot_in_melbourne/</loc>
+    <lastmod>2026-01-13T07:54:02+11:00</lastmod>
+  </url><url>
+    <loc>https://josevu.com/</loc>
+    <lastmod>2026-01-13T07:54:02+11:00</lastmod>
+  </url><url>
+    <loc>https://josevu.com/posts/</loc>
+    <lastmod>2026-01-13T07:54:02+11:00</lastmod>
+  </url><url>
+    <loc>https://josevu.com/posts/new_year_2026_crazy/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <loc>https://josevu.com/posts/hello-world/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://josevu.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://josevu.com/tags/</loc>
   </url>
 </urlset>
