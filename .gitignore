@@ -2,3 +2,10 @@
 /public/
 /resources/_gen/
 .hugo_build.lock
+
+# Blog admin (admin webapp)
+/admin/.env
+/admin/.venv/
+/admin/__pycache__/
+/admin/**/__pycache__/
+*.pyc
