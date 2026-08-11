@@ -2,6 +2,7 @@ baseURL = 'https://josevu.com/'
 languageCode = 'en-us'
 title = 'Jose Vu Blog'
 theme = "poison"
+buildFuture = true
 
 [Params]
   brand = "Jose Vu"
